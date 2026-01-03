@@ -7,7 +7,7 @@ A comprehensive, hands-on tutorial that takes you from the basics through to bui
 ## 🎯 What You'll Learn
 
 By the end of this tutorial, you'll understand:
-- What RAG is and why it's revolutionary for AI applications
+- What RAG is and how it contributes to AI applications
 - How vector embeddings capture semantic meaning
 - How to build and query vector databases
 - How to integrate retrieval with language models
@@ -15,7 +15,6 @@ By the end of this tutorial, you'll understand:
 
 ## 🚀 Who This Is For
 
-- **Beginners**: No prior RAG knowledge required
 - **Developers**: Learn to build RAG applications
 - **ML Engineers**: Understand the architecture and implementation details
 - **Product Managers**: Gain technical insight into RAG capabilities
